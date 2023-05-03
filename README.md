@@ -15,8 +15,8 @@
 
 - [My Portfolio Website](https://rahul-portfolio-gp9t.onrender.com/)
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dipronildas.net@gmail.com)](mailto:dipronildas.net@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipronil-das-37041516a/)](https://www.linkedin.com/in/dipronil-das-37041516a/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabuirahul90@gmail.com)](mailto:sabuirahul90@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-sabui-b09636191/)](https://www.linkedin.com/in/rahul-sabui-b09636191/)
 
 
 <!-- ## 👨🏻‍💻 Coding Profiles
