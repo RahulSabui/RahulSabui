@@ -97,11 +97,11 @@
 
 ## 📈 Stats
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dipronil1998&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RahulSabui&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
 </a>
 
 <a href="#" style="margin-bottom:15px">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipronil1998&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSabui&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
 </a>
 
 <br/>
