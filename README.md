@@ -6,7 +6,7 @@
 
 - 👋 Hi, I'm Rahul Sabui
 - 👀 I'm interested in reading books and traveling.
-- 🌱 I'm currently advancing my skills in Node, Express, MongoDB, MySQL, and Laravel.
+- 🌱 I'm currently advancing my skills in Node, Express, MySQL and Devops.
 - 📫 How to reach me: 
   - [My Portfolio Website](https://rahul-portfolio-gp9t.onrender.com/)
   - [Email](mailto:sabuirahul90@gmail.com)
